@@ -27,22 +27,3 @@ public class p1712 {
         }
     }
 }
-
-
-//    @PostMapping("/login")
-//    public String login(@RequestParam HashMap<String, String> param, HttpSession session) {
-//        String view = "login";
-//        String email = param.get("email");
-//        String password = param.get("password");
-//        for (HashMap<String, String> mem : memList) {
-//            if (email.equals(mem.get("email"))
-//                    && password.equals(mem.get("password"))) {
-//                session.setAttribute("email",email);
-//                view = "index";
-//                System.out.println("로그인 성공");
-//            } else {
-//                System.out.println("아이디 없음");
-//            }
-//        }
-//        return view;
-//    }
