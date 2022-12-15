@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6902125-eabe-4d75-8ae4-3b120aff8584" name="Changes" comment="p2941 done" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GwVBQM1i1YZftYQrYPXRmEKgsN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "C:/Users/user/Desktop/FastIntellij/Algorithm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15332031",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="p10809" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p10809" />
+      <module name="BaekJoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p11654" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p11654" />
+      <module name="BaekJoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p2941" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p2941" />
+      <module name="BaekJoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p5622" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p5622" />
+      <module name="BaekJoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="BaekJoon" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.p2941" />
+        <item itemvalue="Application.p5622" />
+        <item itemvalue="Application.p10809" />
+        <item itemvalue="Application.p11654" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6902125-eabe-4d75-8ae4-3b120aff8584" name="Changes" comment="" />
+      <created>1667299497022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667299497022</updated>
+      <workItem from="1667299498346" duration="7174000" />
+      <workItem from="1667735803646" duration="927000" />
+      <workItem from="1668075285792" duration="1607000" />
+      <workItem from="1668139118524" duration="330000" />
+      <workItem from="1668581265756" duration="7545000" />
+      <workItem from="1669188157882" duration="9184000" />
+      <workItem from="1669273320495" duration="447000" />
+      <workItem from="1669349934210" duration="1803000" />
+      <workItem from="1669624791888" duration="106000" />
+      <workItem from="1670387111265" duration="10825000" />
+      <workItem from="1670561295683" duration="3710000" />
+      <workItem from="1670673934939" duration="1431000" />
+      <workItem from="1670694104255" duration="1461000" />
+      <workItem from="1670818179175" duration="960000" />
+      <workItem from="1671167489414" duration="630000" />
+    </task>
+    <task id="LOCAL-00001" summary="P2439 solved">
+      <created>1667301017896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667301017896</updated>
+    </task>
+    <task id="LOCAL-00002" summary="P10952 solved">
+      <created>1667301277672</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667301277672</updated>
+    </task>
+    <task id="LOCAL-00003" summary="P10951 solved">
+      <created>1667303354222</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667303354222</updated>
+    </task>
+    <task id="LOCAL-00004" summary="p3052 solved">
+      <created>1667736709283</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667736709283</updated>
+    </task>
+    <task id="LOCAL-00005" summary="p1546 solved">
+      <created>1668076866049</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668076866049</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Generic 연습해보기.">
+      <created>1668586860013</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668586860013</updated>
+    </task>
+    <task id="LOCAL-00007" summary="20221123">
+      <created>1669192531257</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669192531257</updated>
+    </task>
+    <task id="LOCAL-00008" summary="20221123">
+      <created>1669193402327</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669193402327</updated>
+    </task>
+    <task id="LOCAL-00009" summary="20221123">
+      <created>1669207195724</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669207195724</updated>
+    </task>
+    <task id="LOCAL-00010" summary="20221124">
+      <created>1669273742292</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669273742292</updated>
+    </task>
+    <task id="LOCAL-00011" summary="20221125">
+      <created>1669351831390</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1669351831390</updated>
+    </task>
+    <task id="LOCAL-00012" summary="p11720 done">
+      <created>1670387913175</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1670387913175</updated>
+    </task>
+    <task id="LOCAL-00013" summary="p10809 done">
+      <created>1670389337641</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1670389337641</updated>
+    </task>
+    <task id="LOCAL-00014" summary="p5622 done">
+      <created>1670392283003</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1670392283003</updated>
+    </task>
+    <task id="LOCAL-00015" summary="p2941 done">
+      <created>1670402391983</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1670402391983</updated>
+    </task>
+    <task id="LOCAL-00016" summary="p2941 done">
+      <created>1671167676514</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1671167676515</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="P2439 solved" />
+    <MESSAGE value="P10952 solved" />
+    <MESSAGE value="P10951 solved" />
+    <MESSAGE value="p3052 solved" />
+    <MESSAGE value="p1546 solved" />
+    <MESSAGE value="Generic 연습해보기." />
+    <MESSAGE value="20221123" />
+    <MESSAGE value="20221124" />
+    <MESSAGE value="20221125" />
+    <MESSAGE value="p11720 done" />
+    <MESSAGE value="p10809 done" />
+    <MESSAGE value="p5622 done" />
+    <MESSAGE value="p2941 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="p2941 done" />
+  </component>
+</project>
