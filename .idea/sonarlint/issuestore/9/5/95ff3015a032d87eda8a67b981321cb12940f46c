@@ -1,0 +1,24 @@
+
+0
+java:S1220""Move this file to a named package.
+`
+java:S1226<"EIntroduce a new variable instead of reusing the parameter "phoneNum".(õ€”ğøÿÿÿÿ
+a
+java:S1226="FIntroduce a new variable instead of reusing the parameter "phoneName".(„À•Ìùÿÿÿÿ
+X
+java:S1226>"BIntroduce a new variable instead of reusing the parameter "owner".(ÿ–
+T
+java:S1854
+"9Remove this useless assignment to local variable "card1".(‰ø¾Âúÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "phone1".(Ùü“¥øÿÿÿÿ
+F
+java:S1481"+Remove this unused "phone1" local variable.(Ùü“¥øÿÿÿÿ
+E
+java:S1481
+"*Remove this unused "card1" local variable.(‰ø¾Âúÿÿÿÿ
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(ı£æñüÿÿÿÿ
+h	java:S1167"SRename this field "PhoneNum" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ“‘
+n	java:S1168"TRename this field "PhoneName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø»á±ÿÿÿÿÿ
+j	java:S1169"PRename this field "Owner" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á§îĞúÿÿÿÿ
